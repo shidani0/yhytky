@@ -1,10 +1,35 @@
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background: #93f0f7;
 }
 
 .count-input {
 	width:10%;
 	display: inline;
+}
+
+.font1{
+    height: auto;
+    width: auto;
+    font-size: 150%;
+    color: #000000;
+}
+
+.font1-bold{
+    font-weight: 900;
+    height: auto;
+    width: auto;
+    font-size: 150%;
+    color: #000000;
+}
+
+
+.font2-bold{
+    font-weight: 600;
+    height: auto;
+    width: auto;
+    font-size: auto;
+    color: #000000;
 }
 
 
